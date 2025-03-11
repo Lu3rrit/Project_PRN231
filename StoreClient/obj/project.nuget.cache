@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00tM/oFlZQY=",
+  "success": true,
+  "projectFilePath": "F:\\down\\FU\\Ki8\\PRN231\\EStore-API-OData-main\\EStore\\StoreClient\\StoreClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
